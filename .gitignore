@@ -1,0 +1,14 @@
+.DS_Store
+._*
+build/
+work/
+*.app/
+*.zip
+*.keychain*
+*.p12
+*.pfx
+*.pem
+*.key
+state.json
+.env
+.env.*
